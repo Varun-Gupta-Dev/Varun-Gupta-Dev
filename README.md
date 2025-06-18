@@ -6,8 +6,8 @@
 <br><br>
 <img align="right" alt="Coder GIF" height=420 width=420 src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=piug-07&label=Profile%20views&color=0e75b6&style=flat" alt="piug-07" /> </p>
-<!-- [![](https://visitcount.itsvg.in/api?id=piug-07&icon=6&color=0)](https://visitcount.itsvg.in) -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Varun-Gupta-Dev&label=Profile%20views&color=0e75b6&style=flat" alt="Varun-Gupta-Dev" /> </p>
+<!-- [![](https://visitcount.itsvg.in/api?id=Varun-Gupta-Dev&icon=6&color=0)](https://visitcount.itsvg.in) -->
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1545) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/piy_ushg1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/piyushg07) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/piug_07) 
 <!-- <p align="left"> <a href="https://twitter.com/piyushg-07" target="blank"><img src="https://img.shields.io/twitter/follow/piyushg-07?logo=twitter&style=for-the-badge" alt="piug_07" /></a> </p> -->
@@ -122,24 +122,24 @@
   <img src="https://img.shields.io/badge/blender-FF6C37?style=for-the-badge&logo=blender&logoColor=white">
 </p>
 
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=piug-07&show_icons=true&locale=en&layout=compact" alt="piug-07" /></p> -->
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Varun-Gupta-Dev&show_icons=true&locale=en&layout=compact" alt="Varun-Gupta-Dev" /></p> -->
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piug-07&show_icons=true&locale=en" alt="piug-07" /></p> -->
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Varun-Gupta-Dev&show_icons=true&locale=en" alt="Varun-Gupta-Dev" /></p> -->
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piug-07&" alt="piug-07" /></p> -->
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Varun-Gupta-Dev&" alt="Varun-Gupta-Dev" /></p> -->
 
 # 📊 GitHub Stats:
 
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=piug-07&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=piug-07&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=piug-07&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+<!-- ![](https://github-readme-stats.vercel.app/api?username=Varun-Gupta-Dev&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Varun-Gupta-Dev&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Varun-Gupta-Dev&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 <p align="center">
   &nbsp;<img
            width="466"
     src="https://github-readme-stats.vercel.app/api?username=Varun-Gupta-Dev&show_icons=true&locale=en&theme=radical&hide_border=true&include_all_commits=false&count_private=false"
-    alt="piug-07"
+    alt="Varun-Gupta-Dev"
   />
 </p>
 
