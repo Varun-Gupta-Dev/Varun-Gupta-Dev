@@ -155,7 +155,7 @@
   <img
      width="466"
     src="https://github-readme-streak-stats.herokuapp.com/?user=Varun-Gupta-Dev&theme=radical&hide_border=true"
-    alt="piug-07"
+    alt="Varun-Gupta-Dev"
   />
 </p>
 
@@ -171,7 +171,7 @@
 -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun-Gupta-Dev&layout=compact&langs_count=10&count_private=true&theme=radical&hide_border=true" alt="piyushg-07" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun-Gupta-Dev&layout=compact&langs_count=10&count_private=true&theme=radical&hide_border=true" alt="Varun-Gupta-Dev" />
 </p>
 
 
