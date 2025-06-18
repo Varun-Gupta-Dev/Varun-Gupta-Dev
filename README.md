@@ -145,7 +145,7 @@
 <p align="center">
   &nbsp;<img
            width="466"
-    src="https://github-readme-stats.vercel.app/api?username=piyushg-07&show_icons=true&locale=en&theme=radical&hide_border=true&include_all_commits=false&count_private=false"
+    src="https://github-readme-stats.vercel.app/api?username=Varun-Gupta-Dev&show_icons=true&locale=en&theme=radical&hide_border=true&include_all_commits=false&count_private=false"
     alt="piug-07"
   />
 </p>
@@ -154,7 +154,7 @@
 <p align="center">
   <img
      width="466"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=piyushg-07&theme=radical&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Varun-Gupta-Dev&theme=radical&hide_border=true"
     alt="piug-07"
   />
 </p>
@@ -171,7 +171,7 @@
 -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushg-07&layout=compact&langs_count=10&count_private=true&theme=radical&hide_border=true" alt="piyushg-07" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun-Gupta-Dev&layout=compact&langs_count=10&count_private=true&theme=radical&hide_border=true" alt="piyushg-07" />
 </p>
 
 
@@ -217,10 +217,4 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
 
-<img align="right" alt="Coder GIF" height=330 width=1000 src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" />- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
